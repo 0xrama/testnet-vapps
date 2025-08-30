@@ -1,5 +1,3 @@
-# AstraFi
-
 ## Overview
 AstraFi is a next-generation decentralized finance (DeFi) platform built on Soundness. It enables users to securely deposit and stake $SND tokens, earning rewards while maintaining full transparency and control over their assets.
 
@@ -22,12 +20,6 @@ DeFi can be complex and intimidating for many users. AstraFi simplifies the proc
 2. **UI Enhancements:** Improve dashboard with visual feedback and charts.
 3. **Automated Rewards:** Enable reward distribution using Soundness features.
 4. **Community Feedback:** Iterate based on user input.
-
-## Contribution Instructions
-1. Fork this repository and create a new branch for your PR.
-2. Copy this file into the appropriate `submission/defi/` folder.
-3. Commit and push your changes.
-4. Submit the PR and run `/submit_vapp` via `@Sound_Dev_vapps` in Discord.
 
 ---
 
